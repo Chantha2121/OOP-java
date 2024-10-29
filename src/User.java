@@ -6,7 +6,7 @@ public class User {
         _name = name;
     }
 
-    void set_membership(String membership){
+     void set_membership(String membership){
         _membership = membership;
     }
 
